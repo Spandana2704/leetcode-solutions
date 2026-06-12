@@ -12,5 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
