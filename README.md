@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Spandana2704/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Spandana2704/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Spandana2704/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
