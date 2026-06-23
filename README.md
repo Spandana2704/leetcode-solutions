@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Spandana2704/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Spandana2704/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Spandana2704/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
