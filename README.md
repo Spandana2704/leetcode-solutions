@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Hash Table
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Graph Theory
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
