@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Spandana2704/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Spandana2704/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
