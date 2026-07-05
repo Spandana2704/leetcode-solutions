@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Spandana2704/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Spandana2704/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0746-min-cost-climbing-stairs](https://github.com/Spandana2704/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Spandana2704/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Spandana2704/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
