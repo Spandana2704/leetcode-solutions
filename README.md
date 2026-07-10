@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/Spandana2704/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Spandana2704/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Spandana2704/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Spandana2704/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Spandana2704/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Spandana2704/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Spandana2704/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
