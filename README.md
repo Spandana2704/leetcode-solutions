@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Spandana2704/leetcode-solutions/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Spandana2704/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Spandana2704/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Spandana2704/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spandana2704/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Spandana2704/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
