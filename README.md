@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Spandana2704/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Spandana2704/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Spandana2704/leetcode-solutions/tree/master/0125-valid-palindrome) |
