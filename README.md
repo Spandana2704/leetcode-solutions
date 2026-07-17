@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Spandana2704/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/0055-jump-game) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Spandana2704/leetcode-solutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Spandana2704/leetcode-solutions/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Simulation
