@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Spandana2704/leetcode-solutions/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Spandana2704/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Spandana2704/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 ## Counting
