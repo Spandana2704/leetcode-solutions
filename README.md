@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Spandana2704/leetcode-solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Spandana2704/leetcode-solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Spandana2704/leetcode-solutions/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Simulation
