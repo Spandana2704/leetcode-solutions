@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Spandana2704/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Spandana2704/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spandana2704/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1260-shift-2d-grid](https://github.com/Spandana2704/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Spandana2704/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/Spandana2704/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Counting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Spandana2704/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Spandana2704/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
