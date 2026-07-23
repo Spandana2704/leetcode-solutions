@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Spandana2704/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Spandana2704/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/Spandana2704/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Spandana2704/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Spandana2704/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Spandana2704/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Spandana2704/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Spandana2704/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Spandana2704/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0063-unique-paths-ii) |
