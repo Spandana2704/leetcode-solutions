@@ -8,7 +8,7 @@ class Solution(object):
         sumA = sum(aliceSizes)
         sumB = sum(bobSizes)
 
-        diff = (sumB - sumA) / 2
+        diff = (sumB - sumA) // 2
 
         bobSet = set(bobSizes)
 
