@@ -13,7 +13,7 @@ class Solution(object):
                 second = largest
                 largest = num
                 index = i
-            elif num > second:
+            elif num >= second:
                 second = num
 
         if largest >= 2 * second:
