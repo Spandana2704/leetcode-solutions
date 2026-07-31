@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Spandana2704/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Spandana2704/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Spandana2704/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Spandana2704/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+| [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## Array
 |  |
 | ------- |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Spandana2704/leetcode-solutions/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/Spandana2704/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Spandana2704/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -264,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Spandana2704/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
