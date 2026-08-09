@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Spandana2704/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Spandana2704/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Spandana2704/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Spandana2704/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0819-most-common-word](https://github.com/Spandana2704/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Spandana2704/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Spandana2704/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Spandana2704/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Spandana2704/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Spandana2704/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Spandana2704/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/Spandana2704/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Spandana2704/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Spandana2704/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/Spandana2704/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Spandana2704/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Spandana2704/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -302,4 +306,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Spandana2704/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
