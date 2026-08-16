@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Spandana2704/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Spandana2704/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Spandana2704/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Spandana2704/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Spandana2704/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
