@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Spandana2704/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Spandana2704/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Spandana2704/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Spandana2704/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/Spandana2704/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/Spandana2704/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Spandana2704/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Spandana2704/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Spandana2704/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Spandana2704/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Spandana2704/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Spandana2704/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Spandana2704/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -346,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Spandana2704/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Spandana2704/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
