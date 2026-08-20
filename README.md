@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Spandana2704/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Spandana2704/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Spandana2704/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1763-longest-nice-substring](https://github.com/Spandana2704/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Spandana2704/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Spandana2704/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
