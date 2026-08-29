@@ -382,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Spandana2704/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/Spandana2704/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
